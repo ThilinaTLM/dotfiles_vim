@@ -1,4 +1,7 @@
 {
     "typescript.suggest.enabled": true,
-    "typescript.format.enabled": true
+    "typescript.format.enabled": true,
+
+    "explorer.width": 30,
+    "explorer.position": "floating"
 }
